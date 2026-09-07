@@ -20,7 +20,7 @@ A basic network topology created using Cisco Packet Tracer.
 
 ## Topology
 
-![Network Topology]()https://cdn.discordapp.com/attachments/749865543430963254/1546503104768245863/image.png?ex=6aa004c0&is=6a9eb340&hm=ddd46a13b320e1d1190f8e14179f89b2330905a411ecdc3ea8c0afc1a92d3283&
+![Network Topology]
 
 ## Tool
 Cisco Packet Tracer
